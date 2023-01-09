@@ -7,7 +7,7 @@
 import tekore as tk
 
 client_id = 'c65f2f655ab044dcac06bbdf08ca7372'
-client_secret = 'e6f73320a7fe42fa84265304165cc7db'
+client_secret = 'b'
 
 app_token = tk.request_client_token(client_id, client_secret)
 
